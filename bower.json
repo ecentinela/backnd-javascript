@@ -1,0 +1,24 @@
+{
+  "name": "backnd",
+  "main": [
+    "backnd.js"
+  ],
+  "version": "0.9.0",
+  "homepage": "http://api.backnd.info",
+  "authors": [
+    "Javier Martinez Fernandez <ecentinela@gmail.com>"
+  ],
+  "description": "Javascript client for Backnd.",
+  "keywords": [
+    "backnd",
+    "api",
+    "client",
+    "javascript",
+    "web"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "package.json",
+    "README.md"
+  ]
+}
